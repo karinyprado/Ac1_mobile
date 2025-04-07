@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hábitos Diarios</string>
+    <string name="adicionar_habito">Agregar Hábito</string>
+    <string name="salvar">Guardar</string>
+    <string name="nome_habito">Nombre del hábito</string>
+    <string name="descricao">Descripción</string>
+    <string name="marcar_como_feito">Marcar como hecho</string>
+</resources>

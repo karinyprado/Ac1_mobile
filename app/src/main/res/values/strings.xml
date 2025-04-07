@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Ac1_Mobile</string>
+    <string name="app_name" translatable="false">Hábitos Diários</string>
+    <string name="adicionar_habito" translatable="false">Adicionar Hábito</string>
+    <string name="salvar" translatable="false">Salvar</string>
+    <string name="nome_habito" translatable="false">Nome do hábito</string>
+    <string name="descricao" translatable="false">Descrição</string>
+    <string name="marcar_como_feito" translatable="false">Marcar como feito</string>
 </resources>
