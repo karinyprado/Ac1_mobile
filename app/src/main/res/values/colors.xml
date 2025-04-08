@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="branco">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
     <color name="rosa">#FFC0CB</color>
     <color name="rosa_claro">#FFF0F5</color>
     <color name="Feito">#D4EDDA</color>
